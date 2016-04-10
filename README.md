@@ -1,5 +1,4 @@
 # Data-Scientist
-Part of the cousera data scientist educational program
 
 
-pull test
+nu de echte push test
